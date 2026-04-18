@@ -1,2 +1,2 @@
-print("Hello World")
-print("hi")
+print("THIS IS A MERGE CONFLICT")
+print("THIS IS ALSO A MERGE CONFLICT")
